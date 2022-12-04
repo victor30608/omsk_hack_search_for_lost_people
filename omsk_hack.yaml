@@ -1,0 +1,5 @@
+train: /home/jovyan/omsk_full/train/images  # train images (relative to 'path') 128 images
+val: /home/jovyan/omsk_full/test/images  # val images (relative to 'path') 128 images
+
+nc: 1
+names: ['man']
